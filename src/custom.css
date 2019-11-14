@@ -94,6 +94,7 @@ body {
 
 .regular {
   font-size: 16px;
+  white-space: normal;
 }
 
 .circle {
