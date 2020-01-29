@@ -74,6 +74,14 @@ body {
   background: url(./img/graph.svg) no-repeat;
 }
 
+.spinner {
+  background: url(./img/loading.gif) no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
 .text-color {
   color: var(--text);
 }
