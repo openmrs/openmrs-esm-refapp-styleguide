@@ -1,5 +1,5 @@
 {
-  "name": "@openmrs/esm-refapp-styleguide",
+  "name": "@openmrs/esm-refapp-styleguide-app",
   "version": "1.0.0",
   "description": "reference application based style guide for using with OpenMRS micro frontend",
   "main": "dist/openmrs-esm-refapp-styleguide.js",
@@ -37,6 +37,7 @@
     "raw-loader": "^3.1.0",
     "style-loader": "^1.0.0",
     "systemjs-webpack-interop": "^1.1.0",
+    "single-spa-react": "^2.10.2",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.11.0"

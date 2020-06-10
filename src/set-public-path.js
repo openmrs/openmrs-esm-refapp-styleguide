@@ -1,3 +1,3 @@
 import { setPublicPath } from "systemjs-webpack-interop";
 
-setPublicPath("@openmrs/esm-styleguide");
+setPublicPath("@openmrs/esm-refapp-styleguide-app");
