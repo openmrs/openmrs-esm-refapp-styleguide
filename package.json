@@ -11,9 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@openmrs/style-referenceapplication": "^0.1.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "@openmrs/style-referenceapplication": "^0.1.0"
   },
   "directories": {
     "lib": "dist"
@@ -39,7 +37,6 @@
     "raw-loader": "^3.1.0",
     "style-loader": "^1.0.0",
     "systemjs-webpack-interop": "^1.1.0",
-    "single-spa-react": "^2.10.2",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.11.0"
