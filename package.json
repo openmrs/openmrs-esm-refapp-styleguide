@@ -11,7 +11,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@openmrs/style-referenceapplication": "^0.1.0"
+    "@openmrs/style-referenceapplication": "^0.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "directories": {
     "lib": "dist"
