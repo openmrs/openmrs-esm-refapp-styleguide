@@ -8,7 +8,8 @@ module.exports = {
     libraryTarget: "system",
     filename: "openmrs-esm-refapp-styleguide.js",
     chunkFilename: "[name].js",
-    path: path.resolve(__dirname, "dist")
+    path: path.resolve(__dirname, "dist"),
+    jsonpFunction: "webpackJsonp_openmrs_esm_refapp_styleguide"
   },
   mode: "production",
   devtool: "sourcemap",
