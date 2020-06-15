@@ -1,3 +1,7 @@
-.omrs-card {    
-    background-color: beige;
-  }
+.omrs-main-content{
+  font-family: Roboto,sans-serif;
+}
+
+.omrs-main-content table td{
+  border: none;
+}
