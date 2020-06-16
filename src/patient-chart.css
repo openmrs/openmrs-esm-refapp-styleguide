@@ -1,7 +1,12 @@
 .omrs-main-content{
   font-family: Roboto,sans-serif;
+  font-size: 14px; 
 }
 
 .omrs-main-content table td{
   border: none;
+}
+
+.omrs-main-content nav .omrs-unstyled{
+  background: #eee;
 }
