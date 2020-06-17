@@ -7,6 +7,11 @@
   border: none;
 }
 
+.omrs-main-content nav{
+  margin-left: 1%;
+  width: 99%;
+}
+
 .omrs-main-content nav .omrs-unstyled{
   background: #eee;
 }
