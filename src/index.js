@@ -4,7 +4,7 @@ import "./load-css.js";
 import "@openmrs/style-referenceapplication/lib/referenceapplication.css";
 import "./variables.css";
 import "./custom.css";
-import "./refapp-patient-chart.css"
+import "./overrides/patient-chart.css"
 
 
 function setupOpenMRS() {

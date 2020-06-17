@@ -34,4 +34,8 @@
   --success-background: #ddffdd;
 
   --omrs-topnav-height: 60px;
+  
+  /*Overrides for esm-styleguide*/
+  --omrs-color-interaction: #00463f;
+  --omrs-color-bg-low-contrast: #fff
 }
