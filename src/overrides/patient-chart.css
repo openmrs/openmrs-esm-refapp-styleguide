@@ -15,3 +15,20 @@
 .omrs-main-content nav .omrs-unstyled{
   background: #eee;
 }
+
+.omrs-main-content table tr{
+  background: #fff;
+  border: none;
+}
+
+.omrs-main-content .immunizationSeriesTable tr{
+  background: #eff1f2
+}
+
+.omrs-main-content .immunizationSeriesTable thead{
+  border: none;
+}
+
+.omrs-main-content .immunizationSeriesTable tr{
+  border: none;
+}
