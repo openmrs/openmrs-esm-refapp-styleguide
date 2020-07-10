@@ -1,6 +1,6 @@
 {
   "name": "@openmrs/esm-refapp-styleguide-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reference application based style guide for using with OpenMRS micro frontend",
   "main": "dist/openmrs-esm-refapp-styleguide.js",
   "scripts": {

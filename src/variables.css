@@ -37,5 +37,12 @@
   
   /*Overrides for esm-styleguide*/
   --omrs-color-interaction: #00463f;
-  --omrs-color-bg-low-contrast: #fff
+  --omrs-color-interaction-plus-one: #00463f;
+  --omrs-color-bg-low-contrast: #fff;
+  
+  --omrs-bg-immunization-sequence-odd-row: #c4d7e6;
+  --omrs-bg-immunization-sequence-even-row: #e5f1fb;    
+  --omrs-bg-immunization-odd-row: #fff;
+  --omrs-bg-immunization-even-row: #eee;    
+  --omrs-bg-immunization-header: #c8cdd2;
 }
